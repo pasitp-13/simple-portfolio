@@ -1,3 +1,9 @@
+# Read First
+
+This profolio is **work-in-progress**.
+
+It's part of Mini Gemini Bootcamp course by DataRockie.
+
 # Pasit P. Portfolio
 
 A modern, dark-themed portfolio for a Data Analyst, built with HTML and CSS using the JetBrains Mono font.
